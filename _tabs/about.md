@@ -14,7 +14,7 @@ thank you! 😎
  
 <center>
 
-<img src="https://i.ibb.co/xYZH8Jf/Kakao-Talk-Photo-2022-09-30-10-21-35.jpg" width="300" height="300">
+<img src="https://i.ibb.co/xYZH8Jf/Kakao-Talk-Photo-2022-09-30-10-21-35.jpg" alt="dog image" width="300" height="300">
 
 </center>
 
