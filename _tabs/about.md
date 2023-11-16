@@ -14,8 +14,7 @@ thank you! 😎
  
 <center>
 
-[![Kakao-Talk-Photo-2022-09-30-10-21-35.jpg](https://i.postimg.cc/zf2fg988/Kakao-Talk-Photo-2022-09-30-10-21-35.jpg)](https://postimg.cc/wtJHK41G)
+![Kakao-Talk-Photo-2022-09-30-10-21-35.jpg](https://i.postimg.cc/zf2fg988/Kakao-Talk-Photo-2022-09-30-10-21-35.jpg)
 
 </center>
-
 
