@@ -29,4 +29,7 @@ tor মতো এমন অনেক আছে I2p Freenet Tails
 এসব মিলে তৈরি হয় dark web 🍁আসা করি সবাই বুঝতে পেরেছেন
 পড়ার জন্য ধন্যবাদ🍁🍂
 
+___
+**wanna support my work! well just buy me a coffee**
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/4m3rr0r)
